@@ -1,1 +1,0 @@
-print('Running capture_dataset.py')

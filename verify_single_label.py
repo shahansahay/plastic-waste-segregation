@@ -1,1 +1,0 @@
-print('Running verify_single_label.py')
