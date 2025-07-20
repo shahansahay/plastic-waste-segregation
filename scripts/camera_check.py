@@ -1,0 +1,1 @@
+print('Running camera_check.py')
